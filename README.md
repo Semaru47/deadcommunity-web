@@ -23,6 +23,7 @@ Public face of DeadCommunity: editorial pages, CMS-driven content, navigation in
 ○ Force-dynamic CMS fetch so content stays fresh
 ○ Dock + floating header navigation
 ○ Same black UI language as the live brand
+○ Ecosystem links include DeadVideo Pro NLE (`edit.deadcommunity.com`)
 
 ### ◆ Who it’s for
 
